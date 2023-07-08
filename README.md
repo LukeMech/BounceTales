@@ -1,2 +1,2 @@
 # BounceTales
-Bounce Tales game updater
+🟢 Bounce Tales game update repo, game in releases
